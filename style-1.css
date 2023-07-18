@@ -1,0 +1,13 @@
+.header {
+    background-color: yellow;
+}
+.header__imagen {
+    width: 150px;
+}
+.header__titulo {
+    color: red;
+}
+.header__subtitulo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
